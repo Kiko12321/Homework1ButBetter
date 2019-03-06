@@ -1,0 +1,6 @@
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\bin\Debug\AverageNumber.exe.config
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\bin\Debug\AverageNumber.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\bin\Debug\AverageNumber.pdb
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\obj\Debug\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\obj\Debug\AverageNumber.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\AverageNumber\obj\Debug\AverageNumber.pdb

@@ -1,0 +1,7 @@
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\bin\Debug\RealCalculator.exe.config
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\bin\Debug\RealCalculator.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\bin\Debug\RealCalculator.pdb
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\obj\Debug\RealCalculator.csprojAssemblyReference.cache
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\obj\Debug\RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\obj\Debug\RealCalculator.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\RealCalculator\obj\Debug\RealCalculator.pdb

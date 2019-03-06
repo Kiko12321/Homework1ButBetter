@@ -1,0 +1,6 @@
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\bin\Debug\SwapNumber.exe.config
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\bin\Debug\SwapNumber.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\bin\Debug\SwapNumber.pdb
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\obj\Debug\SwapNumber.csproj.CoreCompileInputs.cache
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\obj\Debug\SwapNumber.exe
+C:\Users\KRISTIJAN\Desktop\Akademija\BACKEND\C#\domashna\prva\Homework1 but better\Solution1\SwapNumber\obj\Debug\SwapNumber.pdb
